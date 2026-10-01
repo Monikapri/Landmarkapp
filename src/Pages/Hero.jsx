@@ -5,7 +5,7 @@ function Hero() {
     return (
         <div className="Herosection flex flex-col md:flex-row p-4 m-3 max-w-full overflow-hidden">
             <div className="leftsection w-full md:w-1/2 min-w-0">
-                <div className="textpart font-bold text-4xl md:text-7xl wrap-break-word">Build the Next Great Thing</div>
+                <div className="textpart font-bold text-4xl md:text-7xl wrap-break-word">Build the Next Greatz Thing</div>
                 <div className='sec p-3 text-gray-600 text-md'><p>Are you ready to start your adventure and start building the next greatest SAAS app on the market?</p></div>
                 <div className="buttondiv"><button className='font-semibold bg-purple-700 p-2 rounded text-white'>SignUp Today!</button></div>
                 <div className="watermark p-2 mt-5 flex flex-wrap max-w-full overflow-hidden">
